@@ -4,25 +4,32 @@
             "package_name": "System",
             "package_desc": "DragonOS essentials",
             "version": "dragon-v1.0",
-            "creator": "Onko Aikuu (@furry_onko)"
+            "creator": "Onko Aikuu (@furry_onko)",
+            "enabled": true,
+            "attributes": ["SYS", "ND", "PKG", "DOM"]
         },
         {
             "package_name": "Network Manager",
             "package_desc": "Network Manager for DragonOS",
             "version": "network-manager-v1.0",
-            "creator": "Onko Aikuu (@furry_onko)"
+            "creator": "Onko Aikuu (@furry_onko)",
+            "enabled": true,
+            "attributes": ["SYS", "PKG", "DOM"]
         },
         {
             "package_name": "DragonUI",
             "package_desc": "UI for DragonOS",
             "version": "drg-ui-v1.0",
-            "creator": "Onko Aikuu (@furry_onko)"
+            "creator": "Onko Aikuu (@furry_onko)",
+            "enabled": true,
+            "attributes": ["SYS", "ND", "PKG", "DOM"]
         },
         {
             "package_name": "Notes",
             "package_desc": "Create and edit files in this simple notepad",
             "version": "notes-v1.0",
-            "creator": "Onko Aikuu (@furry_onko)"
+            "creator": "Onko Aikuu (@furry_onko)",
+            "attributes": ["PKG"]
         }
     ]
 }

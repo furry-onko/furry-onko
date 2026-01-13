@@ -16,3 +16,16 @@ P - Player
 :33333
 
 ## Dm me: @furry_onko (on every platform)
+
+---
+
+### Learning Rust 🦀 :3
+### Languages i know really well
+- Python
+
+### Languages i know to some extend
+- C
+- Cobol
+- Java
+
+#### I will not learn any functional languages. They are just so annoying

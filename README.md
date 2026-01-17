@@ -28,4 +28,4 @@ P - Player
 - Cobol
 - Java
 
-#### I will not learn any functional languages. They are just so annoying
+#### I will not learn any functional languages. They are just so annoying (did i forget about shit++ ?)
